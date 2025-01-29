@@ -30,4 +30,6 @@ The project contains the following files:
 ## 🤝 Contributing
 Feel free to contribute by improving templates, adding automation scripts, or suggesting enhancements.
 
+## 📝 License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
